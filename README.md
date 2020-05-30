@@ -1,4 +1,4 @@
-#Spring Boot / VueJS / JSP???
+# Spring Boot / VueJS / JSP???
 
 Yes! You can use VueJS in a JSP rendered page! Why? Why? Why would I do such a thing? 
 
